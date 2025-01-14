@@ -39,7 +39,7 @@ _Описание: Веб-приложение для управления за�
 ![GitHub статистика](https://github-readme-stats.vercel.app/api?username=sinorit&show_icons=true&theme=radical)
 
 ✨ **Самые популярные языки:**  
-![Популярные языки](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_ник&layout=compact&theme=radical)
+![Популярные языки](https://github-readme-stats.vercel.app/api/top-langs/?username=sinorit&layout=compact&theme=radical)
 
 ---
 
