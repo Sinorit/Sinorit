@@ -1,4 +1,4 @@
-# Привет, я [Ваше Имя]! 👋
+# Привет, я [Sinorit]! 👋
 
 ![Header](https://i.imgur.com/qRfPfHK.jpg)  
 *Добро пожаловать на мой GitHub профиль!*  
