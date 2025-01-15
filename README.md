@@ -1,6 +1,6 @@
 # Привет, я [Sinorit]! 👋
 
-![Header](https://i.imgur.com/qRfPfHK.jpg)  
+![Header]([https://images.hdqwalls.com/download/mountain-reflections-3840x2400.jpg)  
 *Добро пожаловать на мой GitHub профиль!*  
 
 ---
