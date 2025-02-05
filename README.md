@@ -41,5 +41,5 @@
 ![Популярные языки](https://github-readme-stats.vercel.app/api/top-langs/?username=sinorit&layout=compact&theme=radical)
 
 
-![Footer](![image](https://github.com/user-attachments/assets/906bdc5b-c597-4098-9a77-d55a1292f970))
+![Footer](https://media1.tenor.com/m/NAqend_mfQgAAAAC/github.gif)
 *Спасибо за визит! Успехов! 🚀*
