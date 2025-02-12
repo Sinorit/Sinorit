@@ -60,6 +60,10 @@
 </div>
 
 ---
+График коммитов
+<div align="center"> <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%"> </div>
+
+---
 
 ## 📅 **Моя активность в коде**
 
