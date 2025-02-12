@@ -1,11 +1,16 @@
 # Привет, я [Vlad]! 👋
 
-![Header](https://images.hdqwalls.com/download/mountain-reflections-3840x2400.jpg)
-*Добро пожаловать на мой GitHub профиль!*
+<!-- Анимированный баннер с неоновым эффектом -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Galaxy&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20|%20Tech%20Artist&descSize=20&descAlignY=55" alt="Header" />
+</div>
+
+<!-- Динамические точки-разделители -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ---
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%B0%D1%82%D1%8B%D0%B2%D0%B0%D1%8E+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B+%D1%81+%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C%D1%8E!;%D0%98%D0%B4%D1%83+%D0%BA+%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B9+%D0%B8%D0%B3%D1%80%D0%B5!;%D0%9F%D0%B8%D1%88%D1%83+%D1%87%D0%B8%D1%81%D1%82%D1%8B%D0%B9+%D0%BA%D0%BE%D0%B4!)](https://git.io/typing-svg)
 
 ## 🌟 **Обо мне**
 
@@ -13,33 +18,53 @@
 
 💡 *"Код — это не просто строки, а искусство, которое нужно понимать и улучшать!"*
 
-🔹 Разрабатываю **производительные и масштабируемые системы**
-🔹 Осваиваю **современные технологии** и **паттерны проектирования**
+🔹 Разрабатываю **производительные и масштабируемые системы**  
+🔹 Осваиваю **современные технологии** и **паттерны проектирования**  
 🔹 Интересуюсь **автоматизацией процессов и анализом данных**
 
 ---
 
 ## 🚀 **Мои проекты**
 
-### 🎮 [Temporal Threads](https://github.com/Sinorit/TemporalThreads)
-*2D-игра, разработанная на Godot Engine с механиками манипуляции временем.*
-- 🔥 **Технологии:** Godot, GDScript, AI-поведение, анимации
+### 🎮 [Temporal Threads](https://github.com/Sinorit/TemporalThreads)  
+*2D-игра, разработанная на Godot Engine с механиками манипуляции временем.*  
+- 🔥 **Технологии:** Godot, GDScript, AI-поведение, анимации  
 - 🛠 **Особенности:** сложные головоломки, нелинейный геймплей, оптимизированная физика
+
+---
+
+## 🧑‍💻 **Навыки и Технологии**
+
+<h2 align="center">🚀 Tech Stack</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,py,tailwind,postgres,aws,figma,git&theme=dark&perline=5" />
+</div>
+
+---
 
 ## 📚 **Чему я учусь сейчас**
 
-🔹 **Docker и DevOps** — автоматизация развертывания и CI/CD
-🔹 **AI и машинное обучение** — работа с нейросетями и анализ данных
-🔹 **Godot Engine** — расширенные игровые механики
+🔹 **Docker и DevOps** — автоматизация развертывания и CI/CD  
+🔹 **AI и машинное обучение** — работа с нейросетями и анализ данных  
+🔹 **Godot Engine** — расширенные игровые механики  
 🔹 **Архитектура ПО** — паттерны проектирования, микросервисы
 
 ---
 
 ## 📊 **Статистика GitHub**
 
-![GitHub статистика](https://github-readme-stats.vercel.app/api?username=sinorit&show_icons=true&theme=radical)
-![Популярные языки](https://github-readme-stats.vercel.app/api/top-langs/?username=sinorit&layout=compact&theme=radical)
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=sinorit&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&bg_color=00000000" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=sinorit&theme=vision-friendly-dark&background=00000000" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinorit&layout=compact&theme=vision-friendly-dark&bg_color=00000000" />
+</div>
 
+---
 
-![Footer](https://media1.tenor.com/m/NAqend_mfQgAAAAC/github.gif)
-*Спасибо за визит! Успехов! 🚀*
+## 📅 **Моя активность в коде**
+
+```text
+🌞 Утро    10 commits     █████░░░░░░░░░░░░░ 25% 
+🌆 День    18 commits     ██████████░░░░░░░░ 45% 
+🌃 Вечер   7 commits      ████░░░░░░░░░░░░░░ 17% 
+🌙 Ночь    5 commits      ██░░░░░░░░░░░░░░░░ 13%
