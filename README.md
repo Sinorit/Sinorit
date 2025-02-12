@@ -56,6 +56,7 @@
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=sinorit&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&bg_color=00000000" />
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=sinorit&theme=vision-friendly-dark&background=00000000" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinorit&layout=compact&theme=vision-friendly-dark&bg_color=00000000" />
 </div>
 
 ---
