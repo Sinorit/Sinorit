@@ -50,6 +50,11 @@
 🔹 **Архитектура ПО** — паттерны проектирования, микросервисы
 
 ---
+<div align="center">
+  <img https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG14bDVwdGwwc2VjMG04NTZ5OGpxbHdwczl3dmIyZ3dpZGVzaG9lMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif/>
+</div>
+
+---
 
 ## 📊 **Статистика GitHub**
 
