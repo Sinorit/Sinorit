@@ -50,9 +50,6 @@
 🔹 **Архитектура ПО** — паттерны проектирования, микросервисы
 
 ---
-<div align="center">
-  <img https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG14bDVwdGwwc2VjMG04NTZ5OGpxbHdwczl3dmIyZ3dpZGVzaG9lMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif/>
-</div>
 
 ---
 
@@ -62,6 +59,7 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=sinorit&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&bg_color=00000000" />
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=sinorit&theme=vision-friendly-dark&background=00000000" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinorit&layout=compact&theme=vision-friendly-dark&bg_color=00000000" />
+  <img height="150"src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG14bDVwdGwwc2VjMG04NTZ5OGpxbHdwczl3dmIyZ3dpZGVzaG9lMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif/>
 </div>
 
 ---
