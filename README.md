@@ -2,7 +2,7 @@
 
 <!-- Анимированный баннер с неоновым эффектом -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Galaxy&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20|%20Tech%20Artist&descSize=20&descAlignY=55&animation=fadeIn&desc=Full-Stack%20Developer%20|%20Tech%20Artist&descSize=20&descAlignY=55" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Galaxy&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20|%20Tech%20Artist&descSize=20&descAlignY=55" alt="Header" />
 </div>
 
 <!-- Динамические точки-разделители -->
